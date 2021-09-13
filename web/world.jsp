@@ -4,6 +4,6 @@
     <title>Insert title here</title>
   </head>
   <body>
-    <p>Hello World!!</p>
+    <p>Hello JSP!!</p>
   </body>
 </html>
